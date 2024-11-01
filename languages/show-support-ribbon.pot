@@ -1,0 +1,509 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Show Support Ribbon\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-25 22:08+0000\n"
+"POT-Revision-Date: Thu Aug 11 2016 14:25:42 GMT-0700 (PDT)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: show-support-ribbon.php:60
+msgid " or higher, and has been deactivated!"
+msgstr ""
+
+#: show-support-ribbon.php:650
+msgid "(bottom left)"
+msgstr ""
+
+#: show-support-ribbon.php:657
+msgid "(bottom right)"
+msgstr ""
+
+#: show-support-ribbon.php:447
+msgid ""
+"(SSR) displays a custom support ribbon on your site. SSR includes four built-"
+"in display styles: badge, banner, ribbon, or link."
+msgstr ""
+
+#: show-support-ribbon.php:636
+msgid "(top left)"
+msgstr ""
+
+#: show-support-ribbon.php:643
+msgid "(top right)"
+msgstr ""
+
+#: show-support-ribbon.php:586
+msgid "Aesthetic styles"
+msgstr ""
+
+#: show-support-ribbon.php:583 show-support-ribbon.php:588
+msgid "and"
+msgstr ""
+
+#: support-panel.php:61
+msgid "and is greatly appreciated."
+msgstr ""
+
+#: show-support-ribbon.php:578
+msgid "and then specify the location with something like"
+msgstr ""
+
+#: show-support-ribbon.php:525
+msgid ""
+"Any other CSS that you want to add (do not include style tags or other "
+"markup)"
+msgstr ""
+
+#: support-panel.php:63
+msgid ""
+"Any size donation helps me to continue developing this free plugin and other "
+"awesome WordPress resources."
+msgstr ""
+
+#: show-support-ribbon.php:587
+msgid "Apply aesthetic styles such as"
+msgstr ""
+
+#: show-support-ribbon.php:582
+msgid "Apply structural styles such as"
+msgstr ""
+
+#: show-support-ribbon.php:756
+msgid ""
+"Are you sure you want to restore all default options? (this action cannot be "
+"undone)"
+msgstr ""
+
+#: show-support-ribbon.php:302 show-support-ribbon.php:598 
+#: show-support-ribbon.php:606
+msgid "Badge"
+msgstr ""
+
+#: show-support-ribbon.php:306 show-support-ribbon.php:613 
+#: show-support-ribbon.php:620
+msgid "Banner"
+msgstr ""
+
+#: support-panel.php:53
+msgid "books"
+msgstr ""
+
+#: show-support-ribbon.php:719
+msgid "by"
+msgstr ""
+
+#: show-support-ribbon.php:474
+msgid "Check the box to display the ribbon on your site."
+msgstr ""
+
+#: show-support-ribbon.php:479
+msgid "Check the box to limit display of the ribbon to the home page."
+msgstr ""
+
+#: show-support-ribbon.php:484
+msgid ""
+"Check the box to open the ribbon link in a new tab. Or, leave unchecked to "
+"open in same tab."
+msgstr ""
+
+#: show-support-ribbon.php:513 show-support-ribbon.php:518
+msgid "CSS for"
+msgstr ""
+
+#: show-support-ribbon.php:318
+msgid "Custom"
+msgstr ""
+
+#: show-support-ribbon.php:515 show-support-ribbon.php:520
+msgid "Custom CSS for the"
+msgstr ""
+
+#: show-support-ribbon.php:454 show-support-ribbon.php:569
+msgid "Customization Tips"
+msgstr ""
+
+#: show-support-ribbon.php:602 show-support-ribbon.php:617 
+#: show-support-ribbon.php:631 show-support-ribbon.php:682
+msgid "Display bottom left:"
+msgstr ""
+
+#: show-support-ribbon.php:603 show-support-ribbon.php:618 
+#: show-support-ribbon.php:632 show-support-ribbon.php:683
+msgid "Display bottom right:"
+msgstr ""
+
+#: show-support-ribbon.php:562
+msgid "Display the ribbon anywhere in your theme:"
+msgstr ""
+
+#: show-support-ribbon.php:558
+msgid "Display the ribbon on any post or page:"
+msgstr ""
+
+#: show-support-ribbon.php:472
+msgid "Display the ribbon?"
+msgstr ""
+
+#: show-support-ribbon.php:600 show-support-ribbon.php:615 
+#: show-support-ribbon.php:629 show-support-ribbon.php:680
+msgid "Display top left:"
+msgstr ""
+
+#: show-support-ribbon.php:601 show-support-ribbon.php:616 
+#: show-support-ribbon.php:630 show-support-ribbon.php:681
+msgid "Display top right:"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Displays a customizable \"show support\" ribbon, banner, or badge on your "
+"site."
+msgstr ""
+
+#: support-panel.php:51
+msgid "Donate via PayPal, credit card, or cryptocurrency"
+msgstr ""
+
+#: support-panel.php:55
+msgid "donation"
+msgstr ""
+
+#: show-support-ribbon.php:540
+msgid "Enter the anchor text that should be used for the ribbon link"
+msgstr ""
+
+#: show-support-ribbon.php:535
+msgid "Enter the title that should be used for the ribbon link"
+msgstr ""
+
+#: show-support-ribbon.php:530
+msgid "Enter the URL that should be used for the ribbon link"
+msgstr ""
+
+#: show-support-ribbon.php:577
+msgid "For the"
+msgstr ""
+
+#: show-support-ribbon.php:572
+msgid "For those new to styling HTML with CSS, here are some recipes and tips."
+msgstr ""
+
+#: show-support-ribbon.php:459
+msgid "give it a 5-star rating"
+msgstr ""
+
+#: show-support-ribbon.php:251
+msgid "Give us a 5-star rating at WordPress.org"
+msgstr ""
+
+#: show-support-ribbon.php:468
+msgid ""
+"Here you may enable and configure the plugin. Note: select the \"Custom\" "
+"style to reveal more options."
+msgstr ""
+
+#: show-support-ribbon.php:246
+msgid "Homepage"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://perishablepress.com/show-support-ribbon/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://plugin-planet.com/"
+msgstr ""
+
+#: show-support-ribbon.php:458
+msgid "If you like this plugin, please"
+msgstr ""
+
+#. Author of the plugin
+msgid "Jeff Starr"
+msgstr ""
+
+#: show-support-ribbon.php:720
+msgid "Jeff Starr on Twitter"
+msgstr ""
+
+#: show-support-ribbon.php:701
+msgid ""
+"leave this option unchecked to remember your settings. Or, to go ahead and "
+"restore all default options, check the box, save your settings, and then "
+"deactivate/reactivate the plugin."
+msgstr ""
+
+#: show-support-ribbon.php:77
+msgid "Like this plugin? Give it a"
+msgstr ""
+
+#: show-support-ribbon.php:545
+msgid "Limit display of ribbon to these URLs (separate URLs with commas)"
+msgstr ""
+
+#: show-support-ribbon.php:477
+msgid "Limit to home page?"
+msgstr ""
+
+#: show-support-ribbon.php:314 show-support-ribbon.php:678 
+#: show-support-ribbon.php:686
+msgid "Link"
+msgstr ""
+
+#: show-support-ribbon.php:538
+msgid "Link text"
+msgstr ""
+
+#: show-support-ribbon.php:533
+msgid "Link title"
+msgstr ""
+
+#: show-support-ribbon.php:528
+msgid "Link URL"
+msgstr ""
+
+#: show-support-ribbon.php:576
+msgid "Location"
+msgstr ""
+
+#: support-panel.php:105
+msgid "Make a donation&nbsp;&raquo;"
+msgstr ""
+
+#: show-support-ribbon.php:507
+msgid "Markup"
+msgstr ""
+
+#: show-support-ribbon.php:664
+msgid "Note: to add a drop shadow, add the following CSS to the"
+msgstr ""
+
+#: show-support-ribbon.php:669
+msgid ""
+"Note: to hide the ribbon on small screens, add the following CSS for the"
+msgstr ""
+
+#: show-support-ribbon.php:721
+msgid "Obsessive Web Design &amp; Development"
+msgstr ""
+
+#: show-support-ribbon.php:482
+msgid "Open ribbon link in new tab?"
+msgstr ""
+
+#: show-support-ribbon.php:449
+msgid ""
+"Optionally you may use the shortcode to display the ribbon on any post or "
+"page, or use the template tag to display the ribbon anywhere in your theme "
+"template."
+msgstr ""
+
+#: support-panel.php:59
+msgid "or"
+msgstr ""
+
+#: support-panel.php:59
+msgid "or by making a"
+msgstr ""
+
+#: show-support-ribbon.php:523
+msgid "Other/general CSS"
+msgstr ""
+
+#: show-support-ribbon.php:443
+msgid "Overview"
+msgstr ""
+
+#: support-panel.php:49
+msgid "Perishable Press Books"
+msgstr ""
+
+#: support-panel.php:102
+msgid "Please Donate"
+msgstr ""
+
+#: show-support-ribbon.php:61
+msgid "Please return to the"
+msgstr ""
+
+#: support-panel.php:58
+msgid "Please show support by purchasing one of my"
+msgstr ""
+
+#: show-support-ribbon.php:245 show-support-ribbon.php:455 
+#: show-support-ribbon.php:719
+msgid "Plugin Homepage"
+msgstr ""
+
+#: support-panel.php:50
+msgid "Plugin Planet: Pro WordPress Plugins"
+msgstr ""
+
+#: show-support-ribbon.php:452 show-support-ribbon.php:466
+msgid "Plugin Settings"
+msgstr ""
+
+#: support-panel.php:54
+msgid "plugins"
+msgstr ""
+
+#: show-support-ribbon.php:252
+msgid "Rate this plugin"
+msgstr ""
+
+#: show-support-ribbon.php:591
+msgid "Recipes"
+msgstr ""
+
+#: show-support-ribbon.php:60
+msgid "requires WordPress "
+msgstr ""
+
+#: show-support-ribbon.php:696
+msgid "Restore default options upon plugin deactivation/reactivation."
+msgstr ""
+
+#: show-support-ribbon.php:692
+msgid "Restore Defaults"
+msgstr ""
+
+#: show-support-ribbon.php:310 show-support-ribbon.php:627 
+#: show-support-ribbon.php:636 show-support-ribbon.php:643 
+#: show-support-ribbon.php:650 show-support-ribbon.php:657
+msgid "Ribbon"
+msgstr ""
+
+#: show-support-ribbon.php:549 show-support-ribbon.php:704
+msgid "Save Settings"
+msgstr ""
+
+#: show-support-ribbon.php:487
+msgid "Select your style"
+msgstr ""
+
+#: show-support-ribbon.php:233
+msgid "Settings"
+msgstr ""
+
+#: show-support-ribbon.php:557
+msgid "Shortcode"
+msgstr ""
+
+#: show-support-ribbon.php:554
+msgid "Shortcode &amp; Template Tag"
+msgstr ""
+
+#: show-support-ribbon.php:453
+msgid "Shortcodes &amp; Template Tags"
+msgstr ""
+
+#. Name of the plugin
+#: support-panel.php:7 show-support-ribbon.php:42
+msgid "Show Support Ribbon"
+msgstr ""
+
+#: show-support-ribbon.php:448
+msgid ""
+"SSR also includes the option to use your own custom CSS to style the ribbon "
+"and position it anywhere on the page. See the \"Customization Tips\" panel "
+"for more information."
+msgstr ""
+
+#: show-support-ribbon.php:581
+msgid "Structural styles"
+msgstr ""
+
+#: show-support-ribbon.php:361
+msgid "Support Ribbon"
+msgstr ""
+
+#: show-support-ribbon.php:515 show-support-ribbon.php:520
+msgid "tag"
+msgstr ""
+
+#: show-support-ribbon.php:664 show-support-ribbon.php:669
+msgid "tag."
+msgstr ""
+
+#: show-support-ribbon.php:543
+msgid "Targeted Display"
+msgstr ""
+
+#: show-support-ribbon.php:561
+msgid "Template tag"
+msgstr ""
+
+#: support-panel.php:57
+msgid "Thank you for using this plugin!"
+msgstr ""
+
+#: show-support-ribbon.php:459
+msgid "THANK YOU for your support!"
+msgstr ""
+
+#: show-support-ribbon.php:700
+msgid "Tip:"
+msgstr ""
+
+#: show-support-ribbon.php:583
+msgid "to the block-level element"
+msgstr ""
+
+#: show-support-ribbon.php:588
+msgid "to the inline-level element"
+msgstr ""
+
+#: show-support-ribbon.php:61
+msgid "to upgrade WordPress and try again."
+msgstr ""
+
+#: show-support-ribbon.php:434
+msgid "Toggle all panels"
+msgstr ""
+
+#: show-support-ribbon.php:577
+msgid "use"
+msgstr ""
+
+#: show-support-ribbon.php:592
+msgid ""
+"Using the recipes below as Custom CSS, you can change the position, size, "
+"and color of the ribbon. And much more if you get creative"
+msgstr ""
+
+#: show-support-ribbon.php:61
+msgid "WordPress Admin area"
+msgstr ""
+
+#: show-support-ribbon.php:709
+msgid "WP Resources"
+msgstr ""
+
+#: show-support-ribbon.php:509
+msgid "You may use the following shortcodes:"
+msgstr ""
+
+#: support-panel.php:60
+msgid "Your generous support helps to ensure future development of"
+msgstr ""
+
+#: show-support-ribbon.php:81
+msgid "★★★★★ rating&nbsp;&raquo;"
+msgstr ""
